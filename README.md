@@ -1,4 +1,4 @@
-# Präsentation: Rezept-Suche App
+# Rezept-Suche App
 
 ## Projektplanung
 
@@ -16,7 +16,7 @@ Mit Hilfe der useState Hook wurde der Zustand für die Rezepte, die Suchanfrage 
 ### Implementierung der API-Anfragen:
 Mit Axios wurden Funktionen für die Durchführung von API-Anfragen erstellt. Diese Funktionen holen die Rezepte basierend auf der Suchanfrage und die Details eines ausgewählten Rezepts.
 ### Erstellung der Benutzeroberfläche:
-Die Benutzeroberfläche wurde mit JSX erstellt. Sie beinhaltet ein Eingabefeld für die Suchanfrage, einen Button zum Auslösen der Rezeptsuche, eine Liste der abgerufenen Rezepte und eine Detailansicht für das ausgewählte Rezept.
+Die Benutzeroberfläche beinhaltet ein Eingabefeld für die Suchanfrage, einen Button zum Auslösen der Rezeptsuche, eine Liste der abgerufenen Rezepte und eine Detailansicht für das ausgewählte Rezept.
 
 ## Herausforderungen
 ### Asynchrone Programmierung:
